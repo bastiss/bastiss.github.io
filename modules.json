@@ -63,5 +63,10 @@
     "nr": "CS2012",
     "name": "Android-Praktikum: Anwendungsentwicklung",
     "crp": 9
+  },
+  {
+    "nr": "CS2328",
+    "name": "8-Bit Computersystem mit CP/M",
+    "crp": 9
   }
 ]
