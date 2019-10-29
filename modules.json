@@ -58,5 +58,10 @@
     "nr": "CS2301",
     "name": "Nebenläufige und verteilte Programme",
     "crp": 6
+  },
+  {
+    "nr": "CS2012",
+    "name": "Android-Praktikum: Anwendungsentwicklung",
+    "crp": 9
   }
 ]
